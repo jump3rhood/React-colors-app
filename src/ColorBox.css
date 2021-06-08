@@ -55,18 +55,7 @@
 .ColorBox .dark-text{
     color: rgba(0,0,0,0.6);
 }
-.see-more {
-    background: rgba(255,255,255,0.3);
-    position: absolute;
-    border: none;
-    right: 0px;
-    bottom: 0px;
-    color: white;
-    width: 60px;
-    height: 30px;
-    text-align:center;
-    line-height: 30px;
-}
+
 
 .copy-overlay {
     opacity: 0;
