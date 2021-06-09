@@ -1,3 +1,7 @@
+# React Colors App 
+This is a react clone of https://flatuicolors.com/ 
+A react js application from the Udemy course -- The Modern React Bootcamp by Colt Steele 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
